@@ -159,7 +159,7 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|
 regexp:(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 regexp:(.*\.||)(gash)\.(com|tw)
 regexp:(.*\.||)(mycard)\.(com|tw)
-regexp:(.+\.|^)(360|so|360safe|360totalsecurity)\.(cn|com)
+regexp:(.+\.|^)(360|so|360safe|360totalsecurity)\.(cn|com|net|org)
 regexp:(\.guanjia\.qq\.com|qqpcmgr|QQPCMGR)
 regexp:(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
 regexp:(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
