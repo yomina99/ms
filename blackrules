@@ -165,7 +165,7 @@ regexp:(.*\.||)(rising|kingsoft|duba|xindubawukong|jinshanduba)\.(com|net|org)
 regexp:^(?!torrent-file-editor\.github\.io$).(\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=|torrent)
 regexp:(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
 regexp:(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-
+# public bt trackers
 domain:004430.xyz
 domain:0g.cx
 domain:0x7c0.com
